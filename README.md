@@ -1,1 +1,2 @@
 # SelfProgrammingHistorianLesson
+See ProgrammingHistorianLesson.ipynb for instructions.
